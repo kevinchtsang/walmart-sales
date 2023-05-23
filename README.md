@@ -8,4 +8,6 @@ My model achieved a mean absolute percentage error of 2.36% over 7 months of hol
 
 ![](model_plot.png)
 
-Read the full notebook at [https://kevinchtsang.github.io/walmart-sales/](https://kevinchtsang.github.io/walmart-sales/)
+The XGBoost model is then compared against forecasts using Holt Winter's method.
+
+Read the full Jupyter Notebook at [https://kevinchtsang.github.io/walmart-sales/](https://kevinchtsang.github.io/walmart-sales/)
